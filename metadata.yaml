@@ -1,0 +1,38 @@
+_repo: Other-Main-Travelled-Roads_20714
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
+description: Hamlin Garland followed up his collection of short stories titled Main-Travelled
+  Roads with Other Main-Travelled Roads . Unsparing in their depiction of the harsh
+  realities of Midwestern farm life, these stories are quintessential examples of
+  Garland's writing. Stories include, William Bacon's Man," A Fair Exile," and A Preacher's
+  Love Story."
+gutenberg_issued: '2007-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'West (U.S.) -- Social life and customs -- Fiction'
+- !lcsh 'Western stories'
+tableOfContents: 'Introductory verse -- William Bacon''s man -- Elder Pill, preacher
+  -- A day of grace -- Lucretia Burns -- Daddy Deering -- A stop-over at Tyre -- A
+  division in the coolly -- A fair exile -- An alien in the pines -- Before the low
+  green door -- A preacher''s love story -- An afterword: of winds, snows, and the
+  stars.'
+title: Other Main-Travelled Roads
+url: http://www.gutenberg.org/ebooks/20714
